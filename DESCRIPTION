@@ -1,0 +1,16 @@
+Package: fnzdemographicsR
+Type: Package
+Title: FNZ Demogragphics dataset
+Version: 0.1.0
+Author: Martin Rode
+Maintainer: Martin Rode <martin.rode@fnz.co.uk>
+Description: This packages provides a dataset for FNZ demographics data
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:     
+    data.table (>= 1.9.8),     
+    lubridate,
+    mongolite
+RoxygenNote: 6.0.1
+Repository: FnzRepository
